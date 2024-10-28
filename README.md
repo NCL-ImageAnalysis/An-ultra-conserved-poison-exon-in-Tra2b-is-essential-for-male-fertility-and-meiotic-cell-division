@@ -23,3 +23,4 @@ The macro employs the StarDist plugin for segmenting nuclei, scaling down the pr
 Final Analysis:
 After segmentation, the macro analyzes the particles, saving the results and ROIs for further examination. This includes generating binary images for non-overlapping nuclei and saving them in designated folders. The intensity of each channel is measured for each nucleus and exported in csv format
 
+For questions relating to the macros or data analysis presented here, please contact the corresponding author of the manuscript
