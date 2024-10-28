@@ -1,6 +1,8 @@
 # An-ultra-conserved-poison-exon-in-Tra2b-is-essential-for-male-fertility-and-meiotic-cell-division
 Image processing and analysis macros for the manuscript titled: "An ultra-conserved poison exon in Tra2b is essential for male fertility and meiotic cell division"
 
+Manuscript Authors: Caroline Dalgliesh, Saad Aldalaqan, Christian Atallah, Andrew Best, Emma Scott, Ingrid Ehrmann, George Merces, Joel Mannion, Barbora Badurova1, Raveen Sandher, Ylva Illing, Brunhilde Wirth, Sara Wells, Gemma Codner, Lydia Tebou, Graham R. Smith, Ann Hedley, Mary Herbert, Dirk G. de Rooij, Colin Miles, Louise N Reynard, and David J. Elliott.
+
 ImageJ Macro Overview
 Setup and Configuration:
 The macro begins by enabling expandable arrays and setting up file input/output options ensuring compatibility with subsequent processing steps. The key measurement parameters are also defined
